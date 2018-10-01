@@ -17,3 +17,25 @@ for (var i = 0; i <document.body.children[0].rows.length; i++)="" {="" document.
 </body>
 </html>
 
+<html>
+
+<head>
+<meta charset="utf-8">
+</head>
+
+<body>
+<div></div>
+        <ul id="myList">
+                <li id="first">Будь</li>
+                <li class="class-two">или не будь,</li>
+                <li style="color:red">делай же</li>
+                <li>что <strong>нибудь!</strong></li>
+            </ul>
+            
+
+<script>
+</script>
+
+</body>
+
+</html>
